@@ -1,9 +1,9 @@
 # Projeto Integrador - Grupo 2 - GENERATION
 ------------------------
-Projeto do Bloco II do Bootcamp de Java da Generation Brasil. 🔶
+Projeto do Bootcamp de Java da Generation Brasil. 🔶
 ------------------------
 
-Projeto do Bloco II relacionado com a ODS16.
+Projeto Integrador relacionado com a ODS16.
 
 Qual foi a solução escolhida para contribuir com a ODS 16?
 - A solução escolhida foi a de criação de uma Rede Social.
@@ -23,7 +23,6 @@ Descrição do software planejado para solucionar o problema da ODS n. 16
 - [Gabriel Reis Duarte](https://github.com/xlDuarte)
 - [Gabrielly Oliveira](https://github.com/OliveiraGabsMaria)
 - [Gabriel Costa](https://github.com/GabrielCS02)
-- [Vitor Matheus](https://github.com/vmath7)
 - [Gerson Ronald](https://github.com/GersonRYE)
 - [Larissa Moreira](https://github.com/moreiralaRI00)
 ------------------------
