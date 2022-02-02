@@ -23,7 +23,7 @@ Descrição do software planejado para solucionar o problema da ODS n. 16
 - [Gabriel Reis Duarte](https://github.com/xlDuarte)
 - [Gabrielly Oliveira](https://github.com/OliveiraGabsMaria)
 - [Gabriel Costa](https://github.com/GabrielCS02)
-- [Gerson Ronald](https://github.com/GersonRYE)
+- [Gerson Ronaldo](https://github.com/GersonRYE)
 - [Larissa Moreira](https://github.com/moreiralaRI00)
 ------------------------
 <b>Links úteis:<b/> 📡
