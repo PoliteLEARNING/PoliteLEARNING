@@ -28,7 +28,7 @@ Descrição do software planejado para solucionar o problema da ODS n. 16
 ------------------------
 <b>Links úteis:<b/> 📡
 
-[encurtador.com.br/cjyA3](A seguir...)</p>
+[https://bityli.com/oMXla](A seguir...)</p>
 [Vídeo do programa funcionando no youtube!](A seguir...)</p>
 [Link para Fluxograma!](A seguir...)</p>
 [Link para o Design no Figma!](A seguir...)</p>
